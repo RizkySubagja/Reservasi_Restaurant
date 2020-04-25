@@ -1,0 +1,23 @@
+body{
+
+	background:url('images/bukti.jpg');
+	background-size: cover;
+}
+.reservasi{
+	padding-top: 31%;
+	margin-left: 2%;
+	font-family: arial;
+	font-size: 140%;
+}
+.text{
+	text-align: center;
+}
+.penginap{
+	margin-top: 28%;
+	margin-left: 1%;
+	font-family: arial;
+	font-size: 140%;
+}
+.text-ii{
+	text-align: center;
+}
